@@ -24,14 +24,14 @@ After enter the generated localhost/link theres need to add /docs then u will be
 API Endpoints
 Packages
 
-POST /package: Add a new package.
+    POST /package: Add a new package.
     PUT /package: Update the status of a package.
     GET /package: Retrieve information about a specific package.
     DELETE /package: Delete all delivered packages.
 
 Elves
 
- POST /elfs: Add a new elf.
+    POST /elfs: Add a new elf.
     PUT /elfs: Update the vacation and daternity status of an elf.
     GET /elfs: Retrieve information about a specific elf.
     DELETE /elfs: Fire an elf.
